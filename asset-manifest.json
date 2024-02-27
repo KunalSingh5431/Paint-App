@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Paint-App/static/css/main.742042fd.css",
+    "main.js": "/Paint-App/static/js/main.227e1ce2.js",
+    "index.html": "/Paint-App/index.html",
+    "main.742042fd.css.map": "/Paint-App/static/css/main.742042fd.css.map",
+    "main.227e1ce2.js.map": "/Paint-App/static/js/main.227e1ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742042fd.css",
+    "static/js/main.227e1ce2.js"
+  ]
+}
